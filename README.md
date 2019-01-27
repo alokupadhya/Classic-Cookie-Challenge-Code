@@ -22,8 +22,11 @@ Here is the Python code to solve ***Classic Cookie Challenge - By Hitesh Choudha
 
 ## Algorithm
 
-> 1. Find the first cookie point in 2D Array and set position to current
-> 2. Set current position value with 0
+> lineSum - store sum of cookie chip length
+> currentPos - store current position of cookie chip
+_____________________________________________
+> 1. Find the first cookie point in 2D Array and set position to ***currentPos***
+> 2. Set ***currentPos*** position value with 0 and ***lineSum*** +1 
 > 3. then check if nextLeft or nextRight or nextUp or nextDown == 1 then
 ![example](1.jpg)
 
