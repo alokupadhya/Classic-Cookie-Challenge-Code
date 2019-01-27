@@ -22,8 +22,8 @@ Here is the Python code to solve ***Classic Cookie Challenge - By Hitesh Choudha
 
 ## Algorithm
 
-> lineSum - store sum of cookie chip length
-> currentPos - store current position of cookie chip
+> - lineSum - store sum of cookie chip length
+> - currentPos - store current position of cookie chip
 _____________________________________________
 > 1. Find the first cookie point in 2D Array and set position to ***currentPos***
 > 2. Set ***currentPos*** position value with 0 and ***lineSum*** +1 
