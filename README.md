@@ -6,8 +6,11 @@ Here is the Python code to solve ***Classic Cookie Challenge - By Hitesh Choudha
 
 #### Input
 1 1 0 0
+
 1 0 0 0
+
 0 0 0 1
+
 0 0 0 1
 
 1 - Cookie Chip
