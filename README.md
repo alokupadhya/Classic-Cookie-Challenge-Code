@@ -40,6 +40,6 @@ _____________________________________________
 >> 3 c. set current = next[left, right, up ,down] (In recursion form)
 > 4. append **lineSum** in **lines**
 > 5. if 2D Array all element == 0 then
->> exit
+>> 5 a. exit
 
->> else repete from step 1
+>> 5 b. **else** repete from step 1
