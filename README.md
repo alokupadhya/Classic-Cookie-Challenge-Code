@@ -34,9 +34,12 @@ _____________________________________________
 > 3. while nextLeft and nextRight and nextUp and nextDown != 0 repeat steps
 ![example](1.jpg)
 >> 3 a. increment **lineSum** if **nextleft** or **nextright** or **nextup** or **nextdown** == 1
+
 >> 3 b. set current position value in array to 0
+
 >> 3 c. set current = next[left, right, up ,down] (In recursion form)
 > 4. append **lineSum** in **lines**
 > 5. if 2D Array all element == 0 then
 >> exit
+
 >> else repete from step 1
