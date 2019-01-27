@@ -42,4 +42,4 @@ _____________________________________________
 > 5. if 2D Array all element == 0 then
 >> 5 a. exit
 
->> 5 b. **else** repete from step 1
+>> 5 b. **else** repeat from step 1
