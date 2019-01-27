@@ -4,8 +4,11 @@ Here is the Python code to solve Classic Cookie Challenge - By Hitesh Choudhary
 
 ### input
 1 1 0 0
+
 1 0 0 0
+
 0 0 0 1
+
 0 0 0 1
 
 ### output
@@ -13,6 +16,6 @@ Here is the Python code to solve Classic Cookie Challenge - By Hitesh Choudhary
 
 ## Method to solve
 
-1. Find the first cookie point
-2. 
-> if nextLeft or nextRight or nextUp or nextDown == 1 then
+> 1. Find the first cookie point
+> 2. set current to 0
+> 3. if nextLeft or nextRight or nextUp or nextDown == 1 then
