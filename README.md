@@ -19,6 +19,9 @@ Here is the Python code to solve ***Classic Cookie Challenge - By Hitesh Choudha
 #### Output
 [3,2]
 
+#### Explanation of output
+![Explanation example](2.jpg)
+
 
 ## Algorithm
 
